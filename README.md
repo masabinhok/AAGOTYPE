@@ -22,7 +22,7 @@ To get a local copy up and running follow these simple steps:
 1. Clone the repo
 
    ```sh
-   git clone https://github.com/your-username/typing-game.git
+   git clone git@github.com:masabinhok/AAGOTYPE.git
    ```
 
 2. Open `index.html` in your browser
@@ -57,10 +57,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
+Sabin Shrestha - [@ersabinshrestha](https://x.com/ersabinshrestha) - sabin.shrestha.er@gmail.com
 
-Project Link: [https://github.com/your-username/typing-game](https://github.com/your-username/typing-game)
-
----
-
-Save this as `README.md` in your project root directory. Adjust the placeholders like `your-username`, `your-twitter-handle`, `your-email@example.com`, and any other relevant information specific to your project.
+Project Link: [https://github.com/masabinhok/AAGOTYPE]
